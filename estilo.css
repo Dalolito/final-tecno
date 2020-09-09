@@ -1,0 +1,161 @@
+.primero{
+position: absolute;
+width: 70%;
+height: 50%;
+top: 20%;
+left: 15%;
+border-radius: 60px;
+background-color: #2E4053;
+}
+
+.record{
+position: absolute;
+width: 15%;
+left: 80%;
+top: 5%;
+height: 7%;
+border-radius: 50px;
+background-color: #C39BD3;
+}
+
+.primero2{
+position: absolute;
+width: 80%;
+height: 65%;
+top: 15%;
+left: 11%;
+border-radius: 60px;
+background-color: #2E4053;
+opacity: 1;
+}
+
+.perdiste{
+position: absolute;
+width: 80%;
+height: 65%;
+top: 15%;
+left: 11%;
+border-radius: 60px;
+background-color: #EC7063;
+}
+
+.score{
+position: absolute;
+width: 180px;
+left: 75%;
+top: 19%;
+height: 6%;
+border-radius: 50px;
+background-color: #C39BD3;
+}
+
+#boton{
+position: absolute;
+width: 180px;
+left: 330px;
+top: 45%;
+height: 50px;
+border-radius: 50px;
+background-color: #C39BD3;
+}
+
+#continuar{
+position: absolute;
+width: 180px;
+left: 450px;
+top: 200px;
+height: 50px;
+border-radius: 50px;
+background-color: #C39BD3;
+}
+
+#boton2{
+position: absolute;
+width: 180px;
+left: 880px;
+top: 45%;
+height: 50px;
+border-radius: 50px;
+background-color: #C39BD3;
+}
+
+#boton3{
+position: absolute;
+width: 180px;
+left: 330px;
+top: 60%;
+height: 50px;
+border-radius: 50px;
+background-color: #C39BD3;
+}
+
+#boton4{
+position: absolute;
+width: 180px;
+left: 880px;
+top: 60%;
+height: 50px;
+border-radius: 50px;
+background-color: #C39BD3;
+}
+
+#imagen{
+position: relative;
+left: 50px;
+top: 25%;
+}
+
+#imagen2{
+position: relative;
+left: -180px;
+top: 25%;
+}
+
+#imagen3{
+position: relative;
+left: -410px;
+top: 25%;
+}
+
+#imagenn{
+position: relative;
+left: 150px;
+top: -185px;
+width: 8%;
+height: 71px;
+}
+
+#imagenn2{
+position: relative;
+left: 125px;
+top: -185px;
+width: 8%;
+height: 71px;
+}
+
+#imagenn3{
+position: relative;
+left: 95px;
+top: -185px;
+width: 8%;
+height: 71px;
+}
+
+.segundo{
+position: absolute;
+width: 1364px;
+height: 657px;
+top: 0%;
+left: 0%;
+background-color: #2E4053;
+}
+
+#boton1{
+position: absolute;
+width: 180px;
+left: 400px;
+top: 200px;
+height: 50px;
+border-radius: 50px;
+background-color: #C39BD3;
+}
